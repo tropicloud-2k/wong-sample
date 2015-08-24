@@ -1,0 +1,843 @@
+/*.cartTotal:after {
+    background: #ed1c24;
+    content: "COMPRAR";
+    font-weight: 300;
+    color: #fff;
+    display: block;
+    float: right;
+    padding: 4px 30px;
+}*/
+/*------------------------------------------------------------------------------------------------*/
+.card-data.active .button-list .select.required:before {
+    content: "Número de cuotas";
+    clear: both;
+    color: rgb(153, 153, 153);
+    display: block;
+    float: none;
+    font-size: 14px;
+    margin: 5px 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+.steps-view .box-payment-option .payment-description {
+    width: 422px;
+    height: 100px;
+    overflow: hidden;
+    text-indent: -9999px;
+    position: relative;
+}
+.steps-view .box-payment-option .payment-description:before {
+    content: "Recuerda que sólo aceptamos tarjetas VISA que están habilitadas para realizar pagos por internet.";
+    display: block;
+    text-indent: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+.contenedor-derecha-vistaprevia #productBuy .plugin-preco .productPrice .descricao-preco .valor-por  {
+    position: relative;
+    width: 390px;
+    text-indent: -999px;
+    overflow: hidden;
+    font-size: 20px;
+    font-weight: bold;
+}
+.contenedor-derecha-vistaprevia #productBuy .plugin-preco .productPrice .descricao-preco .valor-por:before {
+    content: "Precio:";
+    display: block;
+    text-indent: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+.steps-view .box-payment-option .payment-card .card-data .payment-card-due .label-text {
+    width: 95px;
+    text-indent: -999px;
+    color: #999999;
+    overflow: hidden;
+    height: 20px;
+}
+.steps-view .box-payment-option .payment-card .card-data .payment-card-due .label-text:before {
+    content: "Valida Hasta";
+    display: block;
+    text-indent: 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+.resultado-busca .title-category .titulo-sessao {
+    margin: 10px 0px;
+    text-indent: -999px;
+    overflow: hidden;
+    width: 200px;
+    height: 30px;
+    text-align: left;
+    padding: 0px;
+}
+.resultado-busca .title-category .titulo-sessao:before {
+    content: "Resultado de búsqueda";
+    display: block;
+    text-indent: 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+.editar-perfil-content .address-display-block #address-edit #form-address .modal-header #myModalLabel,
+.editar-perfil-content #editar-perfil #editar-perfil-conteudo .modal-header #myModalLabel,
+#editar-perfil #editar-perfil-conteudo .profile-detail-form .profile-detail-form-personal-data h5,
+.profile-detail-form .profile-detail-form-contact-data h5,
+#editar-perfil-conteudo .profile-detail-form-personal-data .form-personal-data-name .control-label,
+#editar-perfil-conteudo .profile-detail-form-personal-data .form-personal-data-surname .control-label {
+    text-indent: -999px;
+    position: relative;
+    overflow: hidden;
+}
+.editar-perfil-content .address-display-block #address-edit #form-address .modal-header #myModalLabel:before {
+    content: 'Editar Dirección';
+    position: absolute;
+    left: 0;
+    text-indent: 0;
+}
+.editar-perfil-content #editar-perfil #editar-perfil-conteudo .modal-header #myModalLabel:before {
+    content: 'Editar Perfil';
+    position: absolute;
+    left: 0;
+    text-indent: 0;
+}
+#editar-perfil #editar-perfil-conteudo .profile-detail-form .profile-detail-form-personal-data h5:before {
+    content: 'Datos Personales';
+    position: absolute;
+    left: 0;
+    text-indent: 0;
+}
+#editar-perfil-conteudo .profile-detail-form-personal-data .form-personal-data-name .control-label:before {
+    content: 'Nombre';
+    position: absolute;
+    left: 0;
+    text-indent: 0;
+}
+#editar-perfil-conteudo .profile-detail-form-personal-data .form-personal-data-surname .control-label:before {
+    content: 'Apellido';
+    position: absolute;
+    left: 0;
+    text-indent: 0;
+}
+.profile-detail-form .profile-detail-form-contact-data h5:before {
+    content: 'Datos de contacto';
+    position: absolute;
+    left: 0;
+    text-indent: 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+.edit-address-link .delete:before {
+    content: 'Eliminar';
+    text-indent: 0px;
+    position: absolute;
+    left: 100px;
+    width: 100px;
+}
+/*------------------------------------------------------------------------------------------------*/
+.edit-address-link .address-update:before {
+    content: 'Modificar datos';
+    text-indent: 0px;
+    position: absolute;
+    left: 0;
+    width: 100px;
+}
+/*------------------------------------------------------------------------------------------------*/
+.edit-profile-link #edit-data-link:before {
+    content: 'Modificar datos';
+    text-indent: 0px;
+    position: absolute;
+    left: 0;
+    width: 100px;
+}
+/*------------------------------------------------------------------------------------------------*/
+.contenedor-derecha-vistaprevia #productBuy .productPrice .price-cash {
+    display: block;
+    width: 100%;
+    text-indent: -999px;
+    overflow: hidden;
+    position: relative;
+}
+.contenedor-derecha-vistaprevia #productBuy .productPrice .price-cash:before {
+    content: 'Precio:';
+    position: absolute;
+    left: 0px;
+    text-indent: 0px;
+}
+/*------------------------------------------------------------------------------------------------*/
+.contendo_header .shoping-cart #itensCart .portal-totalizers-ref .amount-items-in-cart .cartInfoWrapper .cart-info .amount-items .amount-items-em {
+    position: absolute;
+    top: 14px;
+    left: -130px;
+    background: #b9b9b9;
+    width: 100px;
+    height: 20px;
+    padding: 0px;
+    text-align: left;
+    color: #777777;
+}
+.contendo_header .shoping-cart #itensCart .portal-totalizers-ref .amount-items-in-cart .cartInfoWrapper .cart-info .amount-items .amount-items-em:before {
+    content: 'Productos:';
+    padding: 0px 5px;
+}
+/*------------------------------------------------------------------------------------------------*/
+.product-description .plugin-preco .productPrice .descricao-preco .valor-por {
+    text-indent: -150px;
+    padding: 15px 5px 0px 100px;
+    overflow: hidden;
+    position: relative;
+}
+.product-description .plugin-preco .productPrice .descricao-preco .valor-por:before {
+    content: 'Precio:';
+    display: block;
+    position: absolute;
+    left: 0px;
+    text-indent: 0px;
+}
+/*------------------------------------------------------------------------------------------------*/
+.product-description .plugin-preco .valor-de strong:before {
+    content: "Antes";
+    font-size: 12px;
+    margin-right: 10px;
+
+}
+/*------------------------------------------------------------------------------------------------*/
+.product-description .plugin-preco .valor-por strong:before {
+    content: "Ahora";
+    font-size: 12px;
+    margin-right: 10px;
+}
+/*------------------------------------------------------------------------------------------------*/
+#btn-add-gift-card, .alert-fatal button, .checkout-container #cart-coupon-add:after {
+    content: "Agregar";
+    display: block;
+    line-height: 0;
+    position: relative;
+    text-indent: 0;
+    top: -10px;
+    color: #fff;
+}
+.checkout-container #cart-coupon-add {
+    float: left;
+    margin: 0px 10px;
+    color: #fff;
+    background: #ed1c24;
+    text-shadow: none;
+    text-indent: -999px;
+    overflow: hidden;
+    border: 0;
+    border-radius: 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+.bt-refinar {
+    width: 92px;
+    height: 22px;
+    overflow: hidden;
+    text-indent: -949px;
+    display: none;
+    position: relative;
+}
+.bt-refinar:before {
+    content: 'Filtrar';
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-indent: 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+.accordion-toggle .link-box-edit:before {
+    content: "Editar";
+    margin-right: 5px;
+}
+/*------------------------------------------------------------------------------------------------*/
+.payment-group-list-btn #payment-group-debitPaymentGroup span {
+    text-indent: -999px;
+    overflow: hidden;
+}
+.payment-group-list-btn #payment-group-debitPaymentGroup span:after {
+    content: "Pago con PSE";
+    display: block;
+    text-indent: 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+.span6.address-display-block h4 {
+    text-indent: -999px;
+    overflow: hidden;
+}
+.span6.address-display-block h4:after {
+    content: "Mis direcciones";
+    display: block;
+    text-indent: 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+#miniCart .vtexsc-cart .vtexsc-center .vtexsc-wrap .vtexsc-productList th.cartSkuName:before {
+    content: 'Producto';
+    font-size: 14px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100px;
+    text-align: center;
+}
+/*------------------------------------------------------------------------------------------------*/
+#miniCart .vtexsc-cart .vtexsc-center .vtexsc-wrap .vtexsc-productList th.cartSkuPrice:before {
+    content: 'Nombre';
+    font-size: 14px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100px;
+    text-align: center;    
+}
+/*------------------------------------------------------------------------------------------------*/
+#miniCart .vtexsc-cart .vtexsc-center .vtexsc-wrap .vtexsc-productList th.cartSkuQuantity:before {
+    content: 'Precio';
+    font-size: 14px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100px;
+    text-align: center;
+}
+/*------------------------------------------------------------------------------------------------*/
+#miniCart .vtexsc-cart .vtexsc-center .vtexsc-wrap .vtexsc-productList th.cartSkuActions:before {
+    content: 'Cantidad';
+    font-size: 14px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100px;
+    text-align: center;
+}
+/*------------------------------------------------------------------------------------------------*/
+.link-coupon-add:after {
+    content: "Agregar cupón de descuento";
+}
+/*------------------------------------------------------------------------------------------------*/
+.checkout-container .orderform-template-holder .client-profile-data .box-edit .box-client-info .box-client-info-pf div .client-phone:first-child:before {
+    content: 'Celular o Teléfono';
+    position: absolute;
+    display: block;
+    top: 0px;
+    color: #999999;
+    width: 120%;
+}
+/*------------------------------------------------------------------------------------------------*/
+.box-step .form-box-step2 .submit .btn,
+.submit #go-to-shipping {
+    overflow: hidden;
+    text-indent: -999px;
+    position: relative;
+    width: 120px;
+}
+.box-step .form-box-step2 .submit .btn:before,
+.submit #go-to-shipping:before {
+    content: 'Continuar';
+    position: absolute;
+    display: block;
+    top: 10px;
+    color: #fff;
+    width: 100%;
+    text-indent: 5px;
+    text-align: left;
+}
+
+/*------------------------------------------------------------------------------------------------*/
+.corporate-hide-link #is-corporate-client,
+.corporate-hide-link #not-corporate-client,
+.address-data .box-delivery .ship-more-info span {
+    display: block;
+    width: 180px;
+    text-indent: -999px;
+    overflow: hidden;
+    position: relative;
+}
+.corporate-hide-link #not-corporate-client:before {
+    content: 'no desea factura';
+    position: absolute;
+    display: block;
+    top: 2px;
+    width: 100%;
+    text-indent: 0px;
+    text-align: left;
+} 
+.corporate-hide-link #is-corporate-client:before {
+    content: '¿Desea Factura?';
+    position: absolute;
+    display: block;
+    top: -1px;
+    width: 100%;
+    text-indent: 0px;
+    text-align: left;
+}
+.address-data .box-delivery .ship-more-info span:before {
+    content: 'Int. Dpto.';
+    position: absolute;
+    display: block;
+    top: 0px;
+    color: #999;
+    width: 100%;
+    text-indent: 0px;
+}
+/*------------------------------------------------------------------------------------------------*/
+.shipping-options .pull-left .choose-shipping-option-container .choose-shipping-option {
+    overflow: hidden;
+    text-indent: -999px;
+    display: block;
+}
+.shipping-options .pull-left .choose-shipping-option-container .choose-shipping-option:after {
+    overflow: hidden;
+    text-indent: 0px;
+    content: "Tipo de Envio";
+    display: block;
+}
+/*------------------------------------------------------------------------------------------------*/
+.body-cart .checkout-container .cart-template-holder .empty-cart-content .empty-cart-message {
+    width: 990px;
+    height: 40px;
+    text-indent: -999px;
+    line-height: 5px;
+    overflow: hidden;
+}
+.body-cart .checkout-container .cart-template-holder .empty-cart-content .empty-cart-message:after {
+    text-indent: 0px;
+    content: "Para buscar productos y navegar por nuestra sitio haz click aqui.";
+    display: block;
+}
+/*------------------------------------------------------------------------------------------------*/
+.body-cart .checkout-container .cart-template-holder .empty-cart-content .empty-cart-title {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 30px;
+    text-indent: -999px;
+    line-height: 10px;
+    overflow: hidden;
+}
+.body-cart .checkout-container .cart-template-holder .empty-cart-content .empty-cart-title:after {
+    text-indent: 0px;
+    content: "TU CARRITO ESTA VACÍO";
+    display: block;   
+}
+/*------------------------------------------------------------------------------------------------*/
+.body-order-form .identified-user-modal .identified-user-modal-body .identified-user-message {
+    text-indent: -9999px;
+    width: 530px;
+    height: 54px;
+    line-height: 18px;
+}
+.body-order-form .identified-user-modal .identified-user-modal-body .identified-user-message:after {
+    text-indent: 0px;
+    content: "Este correo ya se encuentra registrado, completaremos el formulario automáticamente con tus datos.";
+    display: block;   
+}
+/*------------------------------------------------------------------------------------------------*/
+.body-order-form .client-profile-data .accordion-body .box-edit .newsletter .newsletter-text:after {
+    text-indent: 0px;
+    content: "He leído y acepto los términos y condiciones y también acepto las políticas de privacidad y tratamiento de datos personales.";
+    display: block;
+    line-height: 12px;
+    position: absolute;
+    top: 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+#productQuickView .contenedor-derecha-vistaprevia #productBuy .portal-notify-me-ref .sku-notifyme .notifyme-form p:after,
+.notify-me-content .buy-product-button .portal-notify-me-ref .sku-notifyme .notifyme-form p:after {
+    text-indent: 0px;
+    content: "Registra tus datos para recibir una noticiación cuando el producto esté disponible";
+    display: block;
+    position: absolute;
+    top: 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+#productQuickView .contenedor-derecha-vistaprevia #productBuy .portal-notify-me-ref .sku-notifyme .notifyme-title-div h3,
+.notify-me-content .buy-product-button .portal-notify-me-ref .sku-notifyme .notifyme-title-div h3 {
+    width: 100%;
+    position: relative;
+    text-indent: -9999px;
+    height: 30px;
+    font-family: 'Open Sans Condensed', sans-serif !important;
+    font-weight: bold;
+}
+#productQuickView .contenedor-derecha-vistaprevia #productBuy .portal-notify-me-ref .sku-notifyme .notifyme-title-div h3:after,
+.notify-me-content .buy-product-button .portal-notify-me-ref .sku-notifyme .notifyme-title-div h3:after {
+    text-indent: 0px;
+    content: "Quiero saber cuando esté disponible";
+    display: block;
+    position: absolute;
+    top: 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+.box-payment-option .payment-card .card-data .same-address label {
+    width: 100%;
+    height: 35px;
+    text-indent: -999px;
+    overflow: hidden;
+    position: relative;
+}
+.box-payment-option .payment-card .card-data .same-address label:after {
+    text-indent: 0px;
+    content: "La dirección de facturación de la tarjeta de crédito es la misma de entrega.";
+    display: block;
+    position: absolute;
+    top: 0;
+    color: #540020;
+}  
+/*------------------------------------------------------------------------------------------------*/
+.checkout-container .orderform-template .orderform-template-holder .client-profile-data .client-profile-data .accordion-body .accordion-inner .box-step .box-edit .submit #go-to-payment {
+    width: 160px;
+    height: 45px;
+    text-indent: -999px;
+    overflow: hidden;
+} 
+.checkout-container .orderform-template .orderform-template-holder .client-profile-data .client-profile-data .accordion-body .accordion-inner .box-step .box-edit .submit #go-to-payment:before {
+    text-indent: 0px;
+    content: "Ir a Pagar";
+    display: block;
+    height: 45px;
+    text-align: center;
+}
+/*------------------------------------------------------------------------------------------------*/
+.checkout-container .box-step-content .steps-view .card-data .box-installment .sight-loading {
+    display: block;
+    width: 200px;
+    height: 20px;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+.checkout-container .box-step-content .steps-view .card-data .box-installment .sight-loading:before {
+    text-indent: 0px;
+    content: "Cargando información";
+    display: block;
+}
+/*------------------------------------------------------------------------------------------------*/
+.notifyme .success .sku-notifyme-success {
+    width: 435px;
+    height: 20px;
+    display: block;
+    text-indent: -999px;
+    overflow: hidden;
+    position: relative;
+}
+.notifyme .success .sku-notifyme-success:after {
+    content: 'Ya estás registrado, cuando tengamos el producto disponible te avisaremos';
+    text-indent: 0px;
+    position: absolute;
+    left: 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+.notify-me-content .buy-product-button .portal-notify-me-ref .sku-notifyme .notifyme-form p,
+#productQuickView .contenedor-derecha-vistaprevia #productBuy .portal-notify-me-ref .sku-notifyme .notifyme-form p {
+    color: #666;
+    width: 100%;
+    position: relative;
+    text-indent: -9999px;
+    height: 40px;
+    font-family: 'Open Sans Condensed', sans-serif !important;
+}
+#productQuickView .contenedor-derecha-vistaprevia #productBuy .portal-notify-me-ref .sku-notifyme .notifyme-form p:after, 
+.notify-me-content .buy-product-button .portal-notify-me-ref .sku-notifyme .notifyme-form p:after {
+    text-indent: 0px;
+    content: "Registra tus datos para recibir una notificación cuando el producto esté disponible" !important;
+    display: block;
+    position: absolute;
+    top: 0;
+}
+/*------------------------------------------------------------------------------------------------*/
+.outOfStock {
+    width: 160px;
+    text-indent: -900px;
+    overflow: hidden;
+    padding: 0;
+    height: 40px;
+    font-family: 'Open Sans Condensed', sans-serif !important;
+    font-weight: bold;
+    position: relative;
+}
+.outOfStock:after {
+    content: 'Próximamente';
+    text-align: center;
+    font-weight: bold;
+    text-indent: 0px;
+    position: absolute;
+    left: 0px;
+    font-size: 16px;
+    width: 100%;
+}
+/*------------------------------------------------------------------------------------------------*/
+/*.galleries-container #controls .prev:before {
+    color: #fff;
+    content: "<";
+    display: block;
+    font-size: 32px;
+    padding: 5px 10px;
+    text-indent: 0;
+}
+.galleries-container #controls .prev {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
+    border: 4px solid #fff;
+    border-radius: 20px;
+    float: left;
+    height: 30px;
+    overflow: hidden;
+    text-indent: -999px;
+    width: 30px;
+}
+.galleries-container #controls .next {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
+    border: 4px solid #fff;
+    border-radius: 20px;
+    float: right;
+    height: 30px;
+    overflow: hidden;
+    text-indent: -999px;
+    width: 30px;
+}
+.galleries-container #controls .next:before {
+    color: #fff;
+    content: ">";
+    display: block;
+    font-size: 32px;
+    padding: 5px 10px;
+    text-indent: 0;
+}*/
+/*------------------------------------------------------------------------------------------------*/
+/*.buy-button, 
+.btn-add-buy-button-asynchronous {
+    text-indent: -999px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+.buy-button:before,
+.btn-add-buy-button-asynchronous:before {
+    content: 'AÃ‘ADIR AL CARRITO';
+    text-indent:0;
+    position: absolute;
+    left: 50%;
+    margin-left: -62.5px;
+}*/
+/*------------------------------------------------------------------------------------------------*/
+/*.buy-button:before,
+.btn-add-buy-button-asynchronous:before {
+    content: 'AÃ‘ADIR AL CARRITO';
+    position: absolute;
+    left: inherit !important;
+    margin-left: inherit !important;
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    width: 100%;
+}*/
+.coupon-form .coupon-fieldset .coupon-label label:after {
+    content: 'Cupón de Descuento';
+    text-indent: 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.coupon-form .coupon-fieldset .coupon-label label {
+    width: 240px;
+    display: block;
+    height: 20px;
+    text-indent: -999px;
+    overflow: hidden;
+    position: relative;
+}
+.header .menu_superior .cart-info .portal-totalizers-ref .amount-items-in-cart .cartInfoWrapper ul.cart-info li.amount-products  #MostraTextoXml2 {
+    width: 75px;
+    float: left;
+    text-indent: -999px;
+    overflow: hidden;
+    position: relative;
+}
+.header .menu_superior .cart-info .portal-totalizers-ref .amount-items-in-cart .cartInfoWrapper ul.cart-info li.amount-products  #MostraTextoXml2:after {
+    content: 'Productos:';
+    text-indent: 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#content .news-letter .newsletter .error {
+    width: 335px;
+    height: 55px;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 14px;
+    color: #fff;
+    text-indent: -1228px;
+    overflow: hidden;
+    position: relative;
+}
+#content .news-letter .newsletter .error:after {
+    content: 'Encontramos un error en la infromación que sumistraste, intentalo de nuevo.';
+    text-indent: 0px;
+    position: absolute;
+    top: 5px;
+    left: 0;
+}
+#product-buy-content #productPrice .productPrice .valor-por {
+    font-size: 11px;
+    font-weight: bold;
+    color: #e71c20;
+    text-indent: -999px;
+    overflow: hidden;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: auto;
+    line-height: 16px;
+    height: 40px;
+}
+#product-buy-content #productPrice .productPrice .valor-por:before {
+    content: 'Online';
+    display: block;
+    text-indent: 0;
+    float: left;
+    margin: 0 5px 0 0;
+    font-size: 12px;
+    line-height: 10px;
+}
+#product-buy-content #productPrice .productPrice .economia-de {
+    color: #464646;
+    font-size: 12px;
+    font-weight: normal;
+    display: block;
+    width: 100%;
+    text-indent: -999px;
+    overflow: hidden;
+    line-height: 18px;
+    float: left;
+}
+#product-buy-content #productPrice .productPrice .economia-de:before {
+    content: "Ahorraste :";
+    position: relative;
+    float: left;
+    color: #000;
+    font-size: 14px;
+    text-indent: 0;
+    margin: 2px 10px 0 0;
+    font-weight: bold;
+}
+#product-buy-content #productPrice .productPrice .economia-de:after {
+    content: ' ';
+    color: #464646;
+    text-indent: 0;
+    float: right;
+    margin: 0 10px;
+}
+#product-buy-content #productPrice .productPrice .valor-de {
+    color: #868686;
+    font-size: 12px;
+    font-weight: normal;
+    text-indent: -999px;
+    overflow: hidden;
+    width: 100%;
+    line-height: 25px;
+    position: absolute;
+    top: 42px;
+    right: 0;
+}
+#product-buy-content #productPrice .productPrice .valor-de:after {
+    content: 'Antes : ';
+    text-indent: 0;
+    font-size: 14px;
+    position: absolute;
+    margin: 0;
+    top: 0px;
+    left: 0px;
+}
+/*.header .mini-carrito .cart-prev .vtexsc-productList thead tr .cartSkuActions,
+.header .mini-carrito .cart-prev .vtexsc-productList thead tr .cartSkuQuantity,
+.header .mini-carrito .cart-prev .vtexsc-productList thead tr .cartSkuPrice,
+.header .mini-carrito .cart-prev .vtexsc-productList  thead tr .cartSkuName {
+    width: 25%;
+    text-indent: -999px;
+    overflow: hidden;
+    float: left;
+}*/
+.header .mini-carrito .cart-prev .vtexsc-productList thead tr .cartSkuName:after  {
+    content: 'Producto';
+    text-indent: 0;
+    display: block;
+}
+.header .mini-carrito .cart-prev .vtexsc-productList thead tr .cartSkuPrice:after {
+    content: 'Precio';
+    text-indent: 0;
+    display: block;
+}
+.header .mini-carrito .cart-prev .vtexsc-productList thead tr .cartSkuQuantity:after {
+    content: 'Cantidad';
+    text-indent: 0;
+    display: block;
+}
+.header .mini-carrito .cart-prev .vtexsc-productList thead tr .cartSkuActions:after {
+    content: 'Excluir';
+    text-indent: 0;
+    display: block;
+}
+#product-buy-content #BuyButton .buy-button:before {
+    content: "Agregar al carrito";
+    display: block;
+    font-size: 16px;
+    left: 50%;
+    margin-left: -98px;
+    position: absolute;
+    text-indent: 0;
+    top: 15px;
+}
+#product-buy-content #BuyButton .buy-button:after {
+    content: " ";
+    display: block;
+    right: -36px;
+    position: absolute;
+    text-indent: 0;
+    top: -12px;
+    background: #fff url("ico_car.png") no-repeat center center;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    border: solid 5px #ed1c24;
+    
+    -webkit-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.29);
+    -moz-box-shadow:    0px 2px 3px 0px rgba(50, 50, 50, 0.29);
+    box-shadow:         0px 2px 3px 0px rgba(50, 50, 50, 0.29);
+}
+.checkout-container .orderform-template-holder .client-profile-data .box-edit .box-client-info .box-client-info-pf .client-phone {
+    position: relative;
+}
+.checkout-container .orderform-template-holder .client-profile-data .box-edit .box-client-info .box-client-info-pf .client-phone label {
+    height: 20px;
+    width: 100%;
+    overflow: hidden;
+    text-indent: -999px;
+}
+.cart-fixed .link-cart small #orderform-minicart-to-cart {
+    display: block;
+    text-indent: -999px;
+    width: 92px;
+    overflow: hidden;
+}
+.cart-fixed .link-cart small #orderform-minicart-to-cart:after {
+    content: 'Volver al carrito';
+    float: left;
+    text-indent: 0;
+}  
+.unavailable-modal .unavailable-modal-body .unavailable-message {
+    display: block;
+    width: 100%;
+    text-indent: -999px;
+    overflow: hidden;
+}
+.unavailable-modal .unavailable-modal-body .unavailable-message:after {
+    content: 'Lo sentimos, el producto ya no se encuentra disponible';
+    text-indent: 0;
+    float: left;
+}
+.vtexsr-emptySearch {
+    display: block;
+    overflow: hidden;
+    text-indent: -999px;
+    width: 100%;
+}
+.vtexsr-emptySearch:after {
+    content: "Su búqueda no arroja ningún resultado";
+}

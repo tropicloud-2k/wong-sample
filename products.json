@@ -1,0 +1,62 @@
+{
+  "Samsung Televisor LED Full HD Smart 3D Tizen 40 J6400": {
+    "id": 1,
+    "img": "https://s3.amazonaws.com/chaordic-sample/wong/img/Samsung-Televisor-LED-Full-HD-Smart-3D-Tizen-40-pulgadas-J6400-wong-497403.jpg",
+    "name": "Samsung Televisor LED Full HD Smart 3D Tizen 40 J6400",
+    "price": { "old": "S/. 2,299.00", "new": "S/. 1,699.00" }
+  },
+  "Samsung Televisor LED Full HD 40 JH5005": {
+    "id": 2,
+    "img": "https://s3.amazonaws.com/chaordic-sample/wong/img/Samsung-Televisor-LED-Full-HD-40-pulgadas-JH5005-wong-497400.jpg",
+    "name": "Samsung Televisor LED Full HD 40 JH5005",
+    "price": { "old": "S/. 1,499.00", "new": "S/. 1,099.00" }
+  },
+  "AOC Televisor LED HD 32 LE32W454F": {
+    "id": 3,
+    "img": "https://s3.amazonaws.com/chaordic-sample/wong/img/AOC-Televisor-LED-32-Pulgadas-LE32W454F-495687.jpg",
+    "name": "AOC Televisor LED HD 32 LE32W454F",
+    "price": { "old": "S/. 1,299.00", "new": "S/. 799.00" }
+  },
+  "Samsung Televisor LED HD 32JH4005": {
+    "id": 4,
+    "img": "https://s3.amazonaws.com/chaordic-sample/wong/img/Televisor-Samsung-LED-FHD-Smart-3D-55-pulgadas-UN55H7100AG-wong-476450.jpg",
+    "name": "Samsung Televisor LED HD 32JH4005",
+    "price": { "old": "S/. 999.00", "new": "S/. 849.00" }
+  },
+  "AOC Televisor LED FULL HD 48 48H454f": {
+    "id": 5,
+    "img": "https://s3.amazonaws.com/chaordic-sample/wong/img/AOC-Televisor-LED-FULL-HD-48-pulgadas-48H454f-406308.jpg",
+    "name": "AOC Televisor LED FULL HD 48 48H454f",
+    "price": { "old": "S/. 1,799.00", "new": "S/. 1,499.00" }
+  },
+  "AOC Televisor LED Full HD 24 LE24D3140": {
+    "id": 6,
+    "img": "https://s3.amazonaws.com/chaordic-sample/wong/img/AOC-Televisor-LED-24-Pulgadas-LE24D3140-495686.jpg",
+    "name": "AOC Televisor LED Full HD 24 LE24D3140",
+    "price": { "old": "S/. 999.00", "new": "S/. 849.00" }
+  },
+  "Panasonic Televisor LED Smart 42 TC-42AS610L": {
+    "id": 7,
+    "img": "https://s3.amazonaws.com/chaordic-sample/wong/img/Televisor-Panasonic-LED-Smart-42-pulgadas-TC-42AS610L-wong-486393.jpg",
+    "name": "Panasonic Televisor LED Smart 42 TC-42AS610L",
+    "price": { "old": "S/. 2,299.00", "new": "S/. 1,899.00" }
+  },
+  "Sony Televisor LED Full HD 3D 50 KDL-50W805": {
+    "id": 8,
+    "img": "https://s3.amazonaws.com/chaordic-sample/wong/img/Televisor-Sony-LED-Full-HD-3D-50-pulgadas-KDL-50W805-wong-472917.jpg",
+    "name": "Sony Televisor LED Full HD 3D 50 KDL-50W805",
+    "price": { "old": "S/. 3,599.00", "new": "S/. 2,519.30" }
+  },
+  "LG Televisor LED Full HD Smart 3D 42 LB7000": {
+    "id": 9,
+    "img": "https://s3.amazonaws.com/chaordic-sample/wong/img/Televisor-LG-LED-FullHD-Smart-3D-42-pulgadas-LB7000-wong-473187.jpg",
+    "name": "LG Televisor LED Full HD Smart 3D 42 LB7000",
+    "price": { "old": "S/. 2,599.00", "new": "S/. 1,999.00" }
+  },
+  "LG Televisor LED Ultra HD 4k Smart 3D 49 UB8500": {
+    "id": 10,
+    "img": "https://s3.amazonaws.com/chaordic-sample/wong/img/Televisor-LG-Ultra-HD-4k-Smart-49-pulgadas-UB8500-wong-486719.jpg",
+    "name": "LG Televisor LED Ultra HD 4k Smart 3D 49 UB8500",
+    "price": { "old": "S/. 4,999.00", "new": "S/. 3,599.00" }
+  }
+}
