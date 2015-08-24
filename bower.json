@@ -1,0 +1,33 @@
+{
+  "name": "chaordic-sample",
+  "version": "0.1.4",
+  "homepage": "https://github.com/tropicloud/wong-sample",
+  "authors": [
+    "Guilherme Jaccoud <admin@tropicloud.net>"
+  ],
+  "description": "Chaordic OnSite sample for Wong Peru",
+  "main": "wong.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "chaordic",
+    "touch",
+    "responsive",
+    "carousel",
+    "jquery",
+    "json",
+    "ajax"
+  ],
+  "license": "Apache License 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "OwlCarousel2": "~2.0.0-beta.3"
+  }
+}
