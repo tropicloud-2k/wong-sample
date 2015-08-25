@@ -3,7 +3,7 @@ MAINTAINER admin@tropicloud.net
 
 RUN adduser -h /app -s /bin/sh -D chaordic chaordic && \
     echo "chaordic ALL = NOPASSWD : ALL" >> /etc/sudoers && \
-    apk --update add nodejs nginx sudo s6 && \
+    apk --update add git nodejs nginx sudo s6 && \
     npm install -g bower
 
 ADD . /app
