@@ -1,0 +1,4 @@
+app:
+  image: tropicloud/wong-sample
+  ports:
+    - "80:8080"
