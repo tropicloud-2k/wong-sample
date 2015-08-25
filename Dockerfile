@@ -9,7 +9,7 @@ RUN adduser -h /app -s /bin/sh -D chaordic chaordic && \
 ADD . /app
 WORKDIR /app
 USER chaordic
-RUN npm install && bower install && \
+RUN sudo npm install && sudo bower install && \
     sudo chown -R chaordic:chaordic .
 
 EXPOSE 8080
