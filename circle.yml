@@ -16,4 +16,4 @@ deployment:
   dockerhub:
     branch: master
     commands:
-      - $TRIGGER_BUILD
+      - $TRIGGER_URL
