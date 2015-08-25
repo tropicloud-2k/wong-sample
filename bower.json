@@ -19,7 +19,7 @@
     "json",
     "ajax"
   ],
-  "license": "Apache License 2.0",
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",

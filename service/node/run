@@ -1,0 +1,2 @@
+#!/bin/sh
+exec node /app/wong.js

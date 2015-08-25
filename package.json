@@ -27,7 +27,7 @@
     "ajax"
   ],
   "author": "Guilherme Jaccoud <admin@tropicloud.net>",
-  "license": "Apache License 2.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tropicloud/wong-sample/issues"
   },
